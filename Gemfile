@@ -8,6 +8,7 @@ end
 ruby "2.4.1"
 
 gem "autoprefixer-rails"
+gem 'bootstrap', '~> 4.0.0.beta2'
 gem "delayed_job_active_record"
 gem "flutie"
 gem "honeybadger"
@@ -20,6 +21,7 @@ gem "recipient_interceptor"
 gem "sass-rails", "~> 5.0"
 gem "simple_form"
 gem "skylight"
+gem "slim"
 gem "sprockets", ">= 3.0.0"
 gem "suspenders"
 gem "title"
